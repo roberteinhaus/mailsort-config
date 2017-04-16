@@ -1,0 +1,25 @@
+body {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.cond-head {
+    max-width: 100;
+}
+.sorter {
+    display: table-cell;
+    width:80px;
+    padding-right:19px;
+    vertical-align:top;
+}
+.rules {
+    display: table-cell;
+}
+.wrapper {
+  display: table;
+  width: 100%;
+}
+#rulecards {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
